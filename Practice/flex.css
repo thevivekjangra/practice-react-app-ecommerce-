@@ -1,0 +1,14 @@
+.p {
+    border: 2px solid black;
+    height: 20px;
+    width: 40px;
+
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}

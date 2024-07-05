@@ -1,0 +1,45 @@
+* {
+    color: white;
+    background-color: black;
+}
+
+.main-nav {}
+
+.upper-nav {
+    display: flex;
+    justify-content: center;
+}
+
+.lower-nav-ul {
+    display: flex;
+}
+
+.ul-li {
+    list-style-type: none;
+    margin: 3px 8px;
+    padding: 3px;
+}
+
+.ul-li a {
+    text-decoration: none;
+}
+
+.ul li:hover {
+    background: red;
+}
+
+h2 {
+    color: rgb(10, 173, 35);
+}
+
+.imgg {
+    height: 120px;
+    width: 700px;
+    background: rgb(10, 173, 35);
+}
+
+.sec {
+    display: flex;
+    justify-content: space-around;
+
+}

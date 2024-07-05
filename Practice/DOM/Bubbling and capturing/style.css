@@ -1,0 +1,23 @@
+/* #form {
+    border: 2px solid black;
+}
+
+#div {
+    border: 2px solid black;
+    margin: 5px;
+}
+
+#Para {
+    border: 2px solid black;
+    margin: 5px;
+} */
+
+#parent-container {
+    width: 100px;
+}
+
+.card {
+    border: 1px solid black;
+    width: 200px;
+    padding: 10px;
+}
